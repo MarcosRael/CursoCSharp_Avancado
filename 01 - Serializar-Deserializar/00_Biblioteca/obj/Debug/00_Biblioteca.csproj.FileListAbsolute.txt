@@ -1,0 +1,6 @@
+C:\Projetos\Treinamentos\Cursos\CursoCSharp_Avancado\01 - Serializar-Deserializar\00_Biblioteca\bin\Debug\00_Biblioteca.dll
+C:\Projetos\Treinamentos\Cursos\CursoCSharp_Avancado\01 - Serializar-Deserializar\00_Biblioteca\bin\Debug\00_Biblioteca.pdb
+C:\Projetos\Treinamentos\Cursos\CursoCSharp_Avancado\01 - Serializar-Deserializar\00_Biblioteca\obj\Debug\00_Biblioteca.csprojAssemblyReference.cache
+C:\Projetos\Treinamentos\Cursos\CursoCSharp_Avancado\01 - Serializar-Deserializar\00_Biblioteca\obj\Debug\00_Biblioteca.csproj.CoreCompileInputs.cache
+C:\Projetos\Treinamentos\Cursos\CursoCSharp_Avancado\01 - Serializar-Deserializar\00_Biblioteca\obj\Debug\00_Biblioteca.dll
+C:\Projetos\Treinamentos\Cursos\CursoCSharp_Avancado\01 - Serializar-Deserializar\00_Biblioteca\obj\Debug\00_Biblioteca.pdb

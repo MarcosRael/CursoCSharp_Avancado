@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "00_Biblioteca", "00_Biblioteca\00_Biblioteca.csproj", "{BBBFB50D-0E04-4785-8295-AE165315685E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_SerializarXML", "01_SerializarXML\01_SerializarXML.csproj", "{270EE53D-D222-40F6-B960-711D3E909F4E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BBBFB50D-0E04-4785-8295-AE165315685E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBBFB50D-0E04-4785-8295-AE165315685E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBBFB50D-0E04-4785-8295-AE165315685E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBBFB50D-0E04-4785-8295-AE165315685E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{270EE53D-D222-40F6-B960-711D3E909F4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{270EE53D-D222-40F6-B960-711D3E909F4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{270EE53D-D222-40F6-B960-711D3E909F4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{270EE53D-D222-40F6-B960-711D3E909F4E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2C2F368E-6180-456A-B583-BE3F3A59B927}
+	EndGlobalSection
+EndGlobal

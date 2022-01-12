@@ -1,0 +1,10 @@
+C:\Projetos\Treinamentos\Cursos\CursoCSharp_Avancado\01 - Serializar-Deserializar\01_SerializarXML\bin\Debug\01_SerializarXML.exe.config
+C:\Projetos\Treinamentos\Cursos\CursoCSharp_Avancado\01 - Serializar-Deserializar\01_SerializarXML\bin\Debug\01_SerializarXML.exe
+C:\Projetos\Treinamentos\Cursos\CursoCSharp_Avancado\01 - Serializar-Deserializar\01_SerializarXML\bin\Debug\01_SerializarXML.pdb
+C:\Projetos\Treinamentos\Cursos\CursoCSharp_Avancado\01 - Serializar-Deserializar\01_SerializarXML\bin\Debug\00_Biblioteca.dll
+C:\Projetos\Treinamentos\Cursos\CursoCSharp_Avancado\01 - Serializar-Deserializar\01_SerializarXML\bin\Debug\00_Biblioteca.pdb
+C:\Projetos\Treinamentos\Cursos\CursoCSharp_Avancado\01 - Serializar-Deserializar\01_SerializarXML\obj\Debug\01_SerializarXML.csprojAssemblyReference.cache
+C:\Projetos\Treinamentos\Cursos\CursoCSharp_Avancado\01 - Serializar-Deserializar\01_SerializarXML\obj\Debug\01_SerializarXML.csproj.CoreCompileInputs.cache
+C:\Projetos\Treinamentos\Cursos\CursoCSharp_Avancado\01 - Serializar-Deserializar\01_SerializarXML\obj\Debug\01_SerializarXML.csproj.CopyComplete
+C:\Projetos\Treinamentos\Cursos\CursoCSharp_Avancado\01 - Serializar-Deserializar\01_SerializarXML\obj\Debug\01_SerializarXML.exe
+C:\Projetos\Treinamentos\Cursos\CursoCSharp_Avancado\01 - Serializar-Deserializar\01_SerializarXML\obj\Debug\01_SerializarXML.pdb
