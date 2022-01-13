@@ -1,0 +1,10 @@
+C:\Projetos\Treinamentos\Cursos\CursoCSharp_Avancado\01 - Serializar-Deserializar\03_SerializarJSON\bin\Debug\03_SerializarJSON.exe.config
+C:\Projetos\Treinamentos\Cursos\CursoCSharp_Avancado\01 - Serializar-Deserializar\03_SerializarJSON\bin\Debug\03_SerializarJSON.exe
+C:\Projetos\Treinamentos\Cursos\CursoCSharp_Avancado\01 - Serializar-Deserializar\03_SerializarJSON\bin\Debug\03_SerializarJSON.pdb
+C:\Projetos\Treinamentos\Cursos\CursoCSharp_Avancado\01 - Serializar-Deserializar\03_SerializarJSON\bin\Debug\00_Biblioteca.dll
+C:\Projetos\Treinamentos\Cursos\CursoCSharp_Avancado\01 - Serializar-Deserializar\03_SerializarJSON\bin\Debug\00_Biblioteca.pdb
+C:\Projetos\Treinamentos\Cursos\CursoCSharp_Avancado\01 - Serializar-Deserializar\03_SerializarJSON\obj\Debug\03_SerializarJSON.csprojAssemblyReference.cache
+C:\Projetos\Treinamentos\Cursos\CursoCSharp_Avancado\01 - Serializar-Deserializar\03_SerializarJSON\obj\Debug\03_SerializarJSON.csproj.CoreCompileInputs.cache
+C:\Projetos\Treinamentos\Cursos\CursoCSharp_Avancado\01 - Serializar-Deserializar\03_SerializarJSON\obj\Debug\03_SerializarJSON.csproj.CopyComplete
+C:\Projetos\Treinamentos\Cursos\CursoCSharp_Avancado\01 - Serializar-Deserializar\03_SerializarJSON\obj\Debug\03_SerializarJSON.exe
+C:\Projetos\Treinamentos\Cursos\CursoCSharp_Avancado\01 - Serializar-Deserializar\03_SerializarJSON\obj\Debug\03_SerializarJSON.pdb
