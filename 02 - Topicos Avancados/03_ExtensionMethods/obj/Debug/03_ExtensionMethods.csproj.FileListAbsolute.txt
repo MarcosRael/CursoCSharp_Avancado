@@ -1,0 +1,7 @@
+C:\Projetos\Treinamentos\Cursos\CursoCSharp_Avancado\02 - Topicos Avancados\03_ExtensionMethods\bin\Debug\03_ExtensionMethods.exe.config
+C:\Projetos\Treinamentos\Cursos\CursoCSharp_Avancado\02 - Topicos Avancados\03_ExtensionMethods\bin\Debug\03_ExtensionMethods.exe
+C:\Projetos\Treinamentos\Cursos\CursoCSharp_Avancado\02 - Topicos Avancados\03_ExtensionMethods\bin\Debug\03_ExtensionMethods.pdb
+C:\Projetos\Treinamentos\Cursos\CursoCSharp_Avancado\02 - Topicos Avancados\03_ExtensionMethods\obj\Debug\03_ExtensionMethods.csproj.CoreCompileInputs.cache
+C:\Projetos\Treinamentos\Cursos\CursoCSharp_Avancado\02 - Topicos Avancados\03_ExtensionMethods\obj\Debug\03_ExtensionMethods.exe
+C:\Projetos\Treinamentos\Cursos\CursoCSharp_Avancado\02 - Topicos Avancados\03_ExtensionMethods\obj\Debug\03_ExtensionMethods.pdb
+C:\Projetos\Treinamentos\Cursos\CursoCSharp_Avancado\02 - Topicos Avancados\03_ExtensionMethods\obj\Debug\03_ExtensionMethods.csprojAssemblyReference.cache
