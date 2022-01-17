@@ -1,0 +1,6 @@
+C:\Projetos\Treinamentos\Cursos\CursoCSharp_Avancado\01_LINQ\05_LINQ_GROUP\bin\Debug\05_LINQ_GROUP.exe.config
+C:\Projetos\Treinamentos\Cursos\CursoCSharp_Avancado\01_LINQ\05_LINQ_GROUP\bin\Debug\05_LINQ_GROUP.exe
+C:\Projetos\Treinamentos\Cursos\CursoCSharp_Avancado\01_LINQ\05_LINQ_GROUP\bin\Debug\05_LINQ_GROUP.pdb
+C:\Projetos\Treinamentos\Cursos\CursoCSharp_Avancado\01_LINQ\05_LINQ_GROUP\obj\Debug\05_LINQ_GROUP.csproj.CoreCompileInputs.cache
+C:\Projetos\Treinamentos\Cursos\CursoCSharp_Avancado\01_LINQ\05_LINQ_GROUP\obj\Debug\05_LINQ_GROUP.exe
+C:\Projetos\Treinamentos\Cursos\CursoCSharp_Avancado\01_LINQ\05_LINQ_GROUP\obj\Debug\05_LINQ_GROUP.pdb
