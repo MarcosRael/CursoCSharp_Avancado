@@ -1,0 +1,7 @@
+C:\Projetos\Treinamentos\Cursos\CursoCSharp_Avancado\03 - Delegate e Eventos\02_Delegates\bin\Debug\02_Delegates.exe.config
+C:\Projetos\Treinamentos\Cursos\CursoCSharp_Avancado\03 - Delegate e Eventos\02_Delegates\bin\Debug\02_Delegates.exe
+C:\Projetos\Treinamentos\Cursos\CursoCSharp_Avancado\03 - Delegate e Eventos\02_Delegates\bin\Debug\02_Delegates.pdb
+C:\Projetos\Treinamentos\Cursos\CursoCSharp_Avancado\03 - Delegate e Eventos\02_Delegates\obj\Debug\02_Delegates.csproj.CoreCompileInputs.cache
+C:\Projetos\Treinamentos\Cursos\CursoCSharp_Avancado\03 - Delegate e Eventos\02_Delegates\obj\Debug\02_Delegates.exe
+C:\Projetos\Treinamentos\Cursos\CursoCSharp_Avancado\03 - Delegate e Eventos\02_Delegates\obj\Debug\02_Delegates.pdb
+C:\Projetos\Treinamentos\Cursos\CursoCSharp_Avancado\03 - Delegate e Eventos\02_Delegates\obj\Debug\02_Delegates.csprojAssemblyReference.cache
