@@ -1,0 +1,7 @@
+C:\Projetos\Treinamentos\Cursos\CursoCSharp_Avancado\01_Thread\01_Thread\bin\Debug\01_Thread.exe.config
+C:\Projetos\Treinamentos\Cursos\CursoCSharp_Avancado\01_Thread\01_Thread\bin\Debug\01_Thread.exe
+C:\Projetos\Treinamentos\Cursos\CursoCSharp_Avancado\01_Thread\01_Thread\bin\Debug\01_Thread.pdb
+C:\Projetos\Treinamentos\Cursos\CursoCSharp_Avancado\01_Thread\01_Thread\obj\Debug\01_Thread.csprojAssemblyReference.cache
+C:\Projetos\Treinamentos\Cursos\CursoCSharp_Avancado\01_Thread\01_Thread\obj\Debug\01_Thread.csproj.CoreCompileInputs.cache
+C:\Projetos\Treinamentos\Cursos\CursoCSharp_Avancado\01_Thread\01_Thread\obj\Debug\01_Thread.exe
+C:\Projetos\Treinamentos\Cursos\CursoCSharp_Avancado\01_Thread\01_Thread\obj\Debug\01_Thread.pdb
