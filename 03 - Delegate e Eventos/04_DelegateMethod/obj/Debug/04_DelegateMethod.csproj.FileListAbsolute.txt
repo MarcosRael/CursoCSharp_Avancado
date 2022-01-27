@@ -1,0 +1,10 @@
+C:\Projetos\Treinamentos\Cursos\CursoCSharp_Avancado\03 - Delegate e Eventos\04_DelegateMethod\obj\Debug\04_DelegateMethod.csprojAssemblyReference.cache
+C:\Projetos\Treinamentos\Cursos\CursoCSharp_Avancado\03 - Delegate e Eventos\04_DelegateMethod\obj\Debug\_04_DelegateMethod.Form1.resources
+C:\Projetos\Treinamentos\Cursos\CursoCSharp_Avancado\03 - Delegate e Eventos\04_DelegateMethod\obj\Debug\_04_DelegateMethod.Properties.Resources.resources
+C:\Projetos\Treinamentos\Cursos\CursoCSharp_Avancado\03 - Delegate e Eventos\04_DelegateMethod\obj\Debug\04_DelegateMethod.csproj.GenerateResource.cache
+C:\Projetos\Treinamentos\Cursos\CursoCSharp_Avancado\03 - Delegate e Eventos\04_DelegateMethod\obj\Debug\04_DelegateMethod.csproj.CoreCompileInputs.cache
+C:\Projetos\Treinamentos\Cursos\CursoCSharp_Avancado\03 - Delegate e Eventos\04_DelegateMethod\bin\Debug\04_DelegateMethod.exe.config
+C:\Projetos\Treinamentos\Cursos\CursoCSharp_Avancado\03 - Delegate e Eventos\04_DelegateMethod\bin\Debug\04_DelegateMethod.exe
+C:\Projetos\Treinamentos\Cursos\CursoCSharp_Avancado\03 - Delegate e Eventos\04_DelegateMethod\bin\Debug\04_DelegateMethod.pdb
+C:\Projetos\Treinamentos\Cursos\CursoCSharp_Avancado\03 - Delegate e Eventos\04_DelegateMethod\obj\Debug\04_DelegateMethod.exe
+C:\Projetos\Treinamentos\Cursos\CursoCSharp_Avancado\03 - Delegate e Eventos\04_DelegateMethod\obj\Debug\04_DelegateMethod.pdb
