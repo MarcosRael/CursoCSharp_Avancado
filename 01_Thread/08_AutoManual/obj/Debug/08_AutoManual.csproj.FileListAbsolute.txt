@@ -1,0 +1,6 @@
+C:\Projetos\Treinamentos\Cursos\CursoCSharp_Avancado\01_Thread\08_AutoManual\bin\Debug\08_AutoManual.exe.config
+C:\Projetos\Treinamentos\Cursos\CursoCSharp_Avancado\01_Thread\08_AutoManual\bin\Debug\08_AutoManual.exe
+C:\Projetos\Treinamentos\Cursos\CursoCSharp_Avancado\01_Thread\08_AutoManual\bin\Debug\08_AutoManual.pdb
+C:\Projetos\Treinamentos\Cursos\CursoCSharp_Avancado\01_Thread\08_AutoManual\obj\Debug\08_AutoManual.csproj.CoreCompileInputs.cache
+C:\Projetos\Treinamentos\Cursos\CursoCSharp_Avancado\01_Thread\08_AutoManual\obj\Debug\08_AutoManual.exe
+C:\Projetos\Treinamentos\Cursos\CursoCSharp_Avancado\01_Thread\08_AutoManual\obj\Debug\08_AutoManual.pdb
