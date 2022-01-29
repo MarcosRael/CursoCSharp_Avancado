@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_MultiThread", "02_MultiT
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_ThreadBackground", "03_ThreadBackground\03_ThreadBackground.csproj", "{185F7275-13EE-4D5C-9EA6-1C266791774C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05_ThreadSafe", "05_ThreadSafe\05_ThreadSafe.csproj", "{7B983DD3-A970-42CA-B5D0-D6678BA3874C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{185F7275-13EE-4D5C-9EA6-1C266791774C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{185F7275-13EE-4D5C-9EA6-1C266791774C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{185F7275-13EE-4D5C-9EA6-1C266791774C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B983DD3-A970-42CA-B5D0-D6678BA3874C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B983DD3-A970-42CA-B5D0-D6678BA3874C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B983DD3-A970-42CA-B5D0-D6678BA3874C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B983DD3-A970-42CA-B5D0-D6678BA3874C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

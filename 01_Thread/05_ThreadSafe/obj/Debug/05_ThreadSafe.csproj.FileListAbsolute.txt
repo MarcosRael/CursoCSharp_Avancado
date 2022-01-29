@@ -1,0 +1,7 @@
+C:\Projetos\Treinamentos\Cursos\CursoCSharp_Avancado\01_Thread\05_ThreadSafe\bin\Debug\05_ThreadSafe.exe.config
+C:\Projetos\Treinamentos\Cursos\CursoCSharp_Avancado\01_Thread\05_ThreadSafe\bin\Debug\05_ThreadSafe.exe
+C:\Projetos\Treinamentos\Cursos\CursoCSharp_Avancado\01_Thread\05_ThreadSafe\bin\Debug\05_ThreadSafe.pdb
+C:\Projetos\Treinamentos\Cursos\CursoCSharp_Avancado\01_Thread\05_ThreadSafe\obj\Debug\05_ThreadSafe.csprojAssemblyReference.cache
+C:\Projetos\Treinamentos\Cursos\CursoCSharp_Avancado\01_Thread\05_ThreadSafe\obj\Debug\05_ThreadSafe.csproj.CoreCompileInputs.cache
+C:\Projetos\Treinamentos\Cursos\CursoCSharp_Avancado\01_Thread\05_ThreadSafe\obj\Debug\05_ThreadSafe.exe
+C:\Projetos\Treinamentos\Cursos\CursoCSharp_Avancado\01_Thread\05_ThreadSafe\obj\Debug\05_ThreadSafe.pdb
