@@ -1,0 +1,6 @@
+C:\Projetos\Treinamentos\Cursos\CursoCSharp_Avancado\01_Thread\07_ThreadsMetodos\bin\Debug\07_ThreadsMetodos.exe.config
+C:\Projetos\Treinamentos\Cursos\CursoCSharp_Avancado\01_Thread\07_ThreadsMetodos\bin\Debug\07_ThreadsMetodos.exe
+C:\Projetos\Treinamentos\Cursos\CursoCSharp_Avancado\01_Thread\07_ThreadsMetodos\bin\Debug\07_ThreadsMetodos.pdb
+C:\Projetos\Treinamentos\Cursos\CursoCSharp_Avancado\01_Thread\07_ThreadsMetodos\obj\Debug\07_ThreadsMetodos.csproj.CoreCompileInputs.cache
+C:\Projetos\Treinamentos\Cursos\CursoCSharp_Avancado\01_Thread\07_ThreadsMetodos\obj\Debug\07_ThreadsMetodos.exe
+C:\Projetos\Treinamentos\Cursos\CursoCSharp_Avancado\01_Thread\07_ThreadsMetodos\obj\Debug\07_ThreadsMetodos.pdb
