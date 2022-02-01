@@ -1,0 +1,6 @@
+C:\Projetos\Treinamentos\Cursos\CursoCSharp_Avancado\01_Task\02_TaskExecute\bin\Debug\02_TaskExecute.exe.config
+C:\Projetos\Treinamentos\Cursos\CursoCSharp_Avancado\01_Task\02_TaskExecute\bin\Debug\02_TaskExecute.exe
+C:\Projetos\Treinamentos\Cursos\CursoCSharp_Avancado\01_Task\02_TaskExecute\bin\Debug\02_TaskExecute.pdb
+C:\Projetos\Treinamentos\Cursos\CursoCSharp_Avancado\01_Task\02_TaskExecute\obj\Debug\02_TaskExecute.csproj.CoreCompileInputs.cache
+C:\Projetos\Treinamentos\Cursos\CursoCSharp_Avancado\01_Task\02_TaskExecute\obj\Debug\02_TaskExecute.exe
+C:\Projetos\Treinamentos\Cursos\CursoCSharp_Avancado\01_Task\02_TaskExecute\obj\Debug\02_TaskExecute.pdb
